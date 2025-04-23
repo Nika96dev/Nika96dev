@@ -1,6 +1,13 @@
 <h2 align="center">Hi 👋! My name is Pierpaolo D'Agostino 
 and I'm a programmer, from Turin</h2>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-Skilled-yellow?logo=javascript" />
+  <img src="https://img.shields.io/badge/Java-Skilled-orange?logo=openjdk" />
+  <img src="https://img.shields.io/badge/CSS-Skilled-blue?logo=css3" />
+  <img src="https://img.shields.io/badge/HTML-Skilled-red?logo=html5" />
+</p>
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />

@@ -38,7 +38,7 @@ and I'm a programmer, from Turin</h2>
 
 <div align="center">
  <a href="https://nika96devportfolio.netlify.app/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Portfolio&logo=github&label=&color=FFD700&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo" />
+  <img src="https://img.shields.io/static/v1?message=Portfolio&logo=github&label=&color=A9A9A9&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo" />
 </a> <br>
 
   
